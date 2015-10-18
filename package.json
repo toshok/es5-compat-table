@@ -32,6 +32,11 @@
     "es7-shim":            "latest",
     "core-js":             "latest",
     "esdown":              "latest"
+    "mkdirp":         "latest",
+    "sha1":           "latest",
+    "glob":           "latest",
+    "temp":           "latest",
+    "colors":         "latest"
   },
   "scripts": {
     "lint": "jshint data-es5.js data-es6.js data-es7.js",
