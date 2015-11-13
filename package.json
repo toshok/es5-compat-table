@@ -31,7 +31,7 @@
     "es6-shim":            "latest",
     "es7-shim":            "latest",
     "core-js":             "latest",
-    "esdown":              "latest"
+    "esdown":              "latest",
     "mkdirp":         "latest",
     "sha1":           "latest",
     "glob":           "latest",
