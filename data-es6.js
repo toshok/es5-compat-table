@@ -4864,6 +4864,7 @@ exports.tests = [
         safari9:     true,
         webkit:      true,
         xs6:         true,
+        ejs:         true,
       },
     },
     {
@@ -5270,6 +5271,7 @@ exports.tests = [
         safari9:     true,
         webkit:      true,
         xs6:         true,
+        ejs:         true,
       },
     },
     {
@@ -5689,6 +5691,7 @@ exports.tests = [
         safari9:     true,
         webkit:      true,
         xs6:         true,
+        ejs:         true,
       },
     },
     {
@@ -5886,6 +5889,7 @@ exports.tests = [
         safari9:     true,
         webkit:      true,
         xs6:         true,
+        ejs:         true,
       },
     },
     {
@@ -10874,6 +10878,7 @@ exports.tests = [
       res: {
         tr:          true,
         babel:       true,
+        ejs:         true,
         typescript:  typescript.corejs,
         safari9:     true,
         webkit:      true,
