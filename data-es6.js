@@ -10780,6 +10780,7 @@ exports.tests = [
       res: {
         tr:          true,
         babel:       true,
+        ejs:         true,
         typescript:  typescript.corejs,
         es6shim:     true,
         edge12:      true,
@@ -10802,6 +10803,7 @@ exports.tests = [
       res: {
         tr:          true,
         babel:       true,
+        ejs:         true,
         typescript:  typescript.fallthrough,
         es6shim:     true,
         firefox32:   true,
@@ -10823,6 +10825,7 @@ exports.tests = [
       res: {
         tr:          true,
         babel:       true,
+        ejs:         true,
         typescript:  typescript.corejs,
         edge12:      true,
         es6shim:     true,
@@ -10846,6 +10849,7 @@ exports.tests = [
         babel:        true,
         typescript:   typescript.corejs,
         tr:           true,
+        ejs:         true,
         edge12:       true,
         firefox36:    true,
         safari9:     true,
