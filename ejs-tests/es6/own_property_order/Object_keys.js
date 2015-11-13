@@ -10,15 +10,18 @@ var test = function () {
           9:    true,
           D:    true,
           B:    true,
-          '-1': true,
+          '-1': true
         };
         obj.A = true;
         obj[3] = true;
+        "EFGHIJKLMNOPQRSTUVWXYZ".split('').forEach(function(key){
+          obj[key] = true;
+        });
         Object.defineProperty(obj, 'C', { value: true, enumerable: true });
         Object.defineProperty(obj, '4', { value: true, enumerable: true });
         delete obj[2];
         obj[2] = true;
 
-        return Object.keys(obj).join('') === "012349 DB-1AC";
+        return Object.keys(obj).join('') === "012349 DB-1AEFGHIJKLMNOPQRSTUVWXYZC";
        };
 console.log(test())

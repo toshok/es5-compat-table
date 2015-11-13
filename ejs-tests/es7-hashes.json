@@ -1,5 +1,5 @@
 {
- "ejs-tests/es7/exponentiation______operator/basic_support.js": "6ccf804e0341f330002ff87759c0028698a68ae2",
+ "ejs-tests/es7/exponentiation______operator/basic_support.js": "8fe0b5355b4bd386c13da3e3bd017349c2f80db8",
  "ejs-tests/es7/exponentiation______operator/early_syntax_error_for_unary_negation_without_parens.js": "6230f1cded109e553de5ec5e2bbd60d0c7ff1e29",
  "ejs-tests/es7/Array_prototype_includes.js": "bffd804fc664b378a4d45702985dc5897d3e7420",
  "ejs-tests/es7/async_functions/basic_support.js": "1cd55981b7e6c449595b9a484050af252beaee5b",
@@ -74,6 +74,7 @@
  "ejs-tests/es7/String_padding/String_prototype_padRight.js": "7ae76973b5dd9ac9e86a89fd94321745c63fb5c7",
  "ejs-tests/es7/bind__::__operator/binary_form.js": "b785768f8739f20e663ad15e7e32ddf09f8e7d60",
  "ejs-tests/es7/bind__::__operator/unary_form.js": "0539647df2cfb6d5b5cfe038c2e8fd3fde9d5670",
+ "ejs-tests/es7/do_expression.js": "2801797e276cb0dd835f976228a51c3911ac81ab",
  "ejs-tests/es7/Object_getOwnPropertyDescriptors.js": "e859d281346bf99470630f9848806cc8ada29f54",
  "ejs-tests/es7/Map_prototype_toJSON.js": "24902708813c60732aa7f990b925542f9a07ab67",
  "ejs-tests/es7/Set_prototype_toJSON.js": "2cd5def259edce041e9ee3bb1977848ed70c598d",

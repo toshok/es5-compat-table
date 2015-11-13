@@ -1264,7 +1264,6 @@ exports.tests = [
       */},
       res: {
         babel:       flag,
-        ejs:         true,
         typescript:  true,
         ie11:        true,
         firefox35:   { val: flag, note_id: 'fx-let', },
