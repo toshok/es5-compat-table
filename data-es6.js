@@ -4400,6 +4400,7 @@ exports.tests = [
         return view[0] === 0xFF;
       */},
       res: (temp.clampedArrayResults = {
+        ejs:         true,
         firefox11:   true,
         edge12:      true,
         chrome:      true,
@@ -4607,7 +4608,6 @@ exports.tests = [
         firefox11:false,
         firefox44:true,
         xs6:      true,
-        ejs:      true,
       }),
     },
     {
